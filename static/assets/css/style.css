@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+html, body {
+    font-family: 'Lora',
+     serif;display:block;
+    }
+    /* header css */
+.logo {
+    display:block;
+    overflow:hidden;
+    float: left;
+    width: 600px;
+}
+.navbar-brand .nav-link{
+    display:block;
+    overflow:hidden;
+    float: right;
+    margin-left: 20px;
+}
+    /* Main navigation bar css */
+#mainNavbarContainer {
+    background-color: #c7b864e3;
+    -webkit-box-shadow: -9px -7px 14px 8px rgba(13,40,66,1);
+    -moz-box-shadow: -9px -7px 14px 8px rgba(13,40,66,1);
+    box-shadow: -9px -7px 14px 8px rgba(13,40,66,1);
+}
+.bg-light {
+    background-color: #5bbdb6 !important;
+}
+/* content slider css */
+.content-slider {
+    display:block;
+    overflow:hidden;
+    background-color: rgb(4, 39, 44); 
+}
+/* about css */
+.about {
+    display:block;
+    overflow:hidden;
+    margin-top:20px;
+    margin-bottom: 30 px;
+    background-color: #E3F2FD; 
+}
+/* text css */
+.text-center {
+
+    font-weight: bold;
+    color: #5bbdb6;
+}
+/* service css */
+.service {
+    display:block;
+    overflow:hidden;
+    margin-top:30px;
+
+}
+/* btn css */
+.btn-primary {
+    color: #fff;
+    background-color: #1c86aa;
+    border-color: #3469d5;
+}
+/* testimonial css */
+.testimonial {
+    display:block;
+    overflow:hidden;
+    background-color: rgb(4, 39, 44); 
+} 
+/* contact css */
+.contact {
+    display:block;
+    overflow:hidden;
+    background-color: #E3F2FD; 
+}
+.name {
+    float: left;
+    width: 400px;
+}
+.email{
+    float: right;
+    width: 400px;
+}
+.phn {
+    float: left;
+    width: 400px;
+}
+.subject {
+    float: right;
+    width: 400px;
+}
+
+.cmnt {
+    float: left;
+    width: 935px;
+}
+.button{
+    display:block;
+    overflow:hidden;
+}
+.map {
+    display:block;
+    overflow:hidden;   
+    background-color: #E3F2FD; 
+}
+/* address css */
+.logo-bar {
+    float:left;
+}
+.footer {
+    background-color: #E3F2FD; 
+    padding: 45px 0px;
+}
+.footer_menu .footer_menu_item{
+    color:#827717 !important;
+    list-style: none;
+    float: left;
+    margin: 10px;  
+}
+/* main footer css */
+.pull-left {
+
+    font-weight: bold;
+    color: #5bbdb6;
+}
+.page-footer {
+    overflow: hidden;
+    display: inline;
+}
+.main-foooter {
+    float: left;
+    width: 600px;
+}
+.icon {
+    margin-top: 10px;
+    float: right;
+    width: 100px;
+}
